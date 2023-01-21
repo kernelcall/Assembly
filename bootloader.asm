@@ -1,3 +1,4 @@
+;Arquitetura 16bits
 xor ax, ax; move o valor de ax para ax = 0
 mov es, ax; move o valor de es para ax = 0
 mov ds, ax; move o valor de ds para ax = 0
